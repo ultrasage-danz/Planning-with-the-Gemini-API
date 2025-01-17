@@ -48,4 +48,4 @@ Thumbs.db
 
 .terraform/
 .env
-environments/environments.ts 
+environments/
