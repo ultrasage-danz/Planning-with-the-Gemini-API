@@ -49,3 +49,5 @@ Thumbs.db
 .terraform/
 .env
 src/environments/
+terraform.tfstate
+terraform.tfstate.backup
